@@ -5,8 +5,6 @@ classes: wide
 permalink: /
 ---
 
-# Biography
-
 I am a fourth year CS B.Tech student at the [**Central Institute of Technology Kokrajhar**](https://cit.ac.in/), fortunate to be advised by [Assistant Prof. Ranjan Maity](https://cit.ac.in/departments/profile/cse/dr-ranjan-maity). I am broadly interested in the Computing Systems and Human Computer Interaction, particularly in Computer Networks.
 
 Previously, I was studying in [**Cotton College, Guwahati**](https://cottonuniversity.ac.in/). Where I pursued Science.
