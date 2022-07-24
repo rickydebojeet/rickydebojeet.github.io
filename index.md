@@ -5,7 +5,7 @@ classes: wide
 permalink: /
 ---
 
-I am a fist-year Ph.D. Scholar in Computer Science and Engineering Department at the [**Indian Institute of Technology Bombay**](https://cse.iitb.ac.in/). I have done my B.Tech student in Computer Science and Engineering at the [**Central Institute of Technology**](https://cit.ac.in/) in Kokrajhar, where I have the honour of being advised by Assistant Proffessor [Dr. Ranjan Maity](https://cit.ac.in/departments/profile/cse/dr-ranjan-maity). Computer Networks attracted my interest, as did Computing Systems and Human-Computer Interaction in general. 
+I am a fist-year Ph.D. Scholar in Computer Science and Engineering Department at the [**Indian Institute of Technology Bombay**](https://cse.iitb.ac.in/). I have done my B.Tech in Computer Science and Engineering at the [**Central Institute of Technology**](https://cit.ac.in/) in Kokrajhar, where I have the honour of being advised by Assistant Proffessor [Dr. Ranjan Maity](https://cit.ac.in/departments/profile/cse/dr-ranjan-maity). Computer Networks attracted my interest, as did Computing Systems and Human-Computer Interaction in general. 
 
 My former college was [Cotton College](https://cottonuniversity.ac.in/) in Guwahati. It was here that I completed my HS (12th) in Science.
 
