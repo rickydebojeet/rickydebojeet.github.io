@@ -26,7 +26,7 @@ For my bachelor's thesis, I worked on Augmented Reality, which has the potential
 
 ## Updates
 
-- **July 2022:** Joined IIT Bombay to pursue Ph.D in CSE
+- **July 2022:** Joined IIT Bombay to pursue Ph.D. in CSE
 - **May 2022:** Selected for PhD Programme in CSE Department, IIT Bombay
 - **March 2022:** Qualified GATE 2022 and ranked in top 7.19%
 - **March 2021:** Qualified GATE 2021 and ranked in top 10.25%
