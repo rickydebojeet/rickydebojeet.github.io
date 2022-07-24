@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 title: "Debojeet Das"
 title_separator: "-"
-subtitle: "CSE Undergrad"
+subtitle: "Ph.D. Scholar"
 name: "Debojeet Das"
-description: "Portfolio of Debojeet Das a CSE Undergrad"
+description: "Portfolio of Debojeet Das a Ph.D. Scholar"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,9 +106,9 @@ analytics:
 author:
   name: "Debojeet Das"
   avatar: "/assets/images/bio-photo.jpeg"
-  bio: "Upcoming **CSE Undergrad** offering strong foundation in Computer Networks and interest in Technology"
-  location: "CSE Department, CIT Kokrajhar"
-  email: "debojeetofficial@gmail.com"
+  bio: "**CSE Ph.D. Scholar** offering strong foundation in Computer Networks and interest in Technology"
+  location: "SynerG, IIT Bombay"
+  email: "22d0371@iitb.ac.in"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
