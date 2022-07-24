@@ -5,9 +5,9 @@ classes: wide
 permalink: /
 ---
 
-I am a final-year B.Tech student in Computer Science and Engineering at the [**Central Institute of Technology**](https://cit.ac.in/) in Kokrajhar, where I have the honour of being advised by Assistant Proffessor [Dr. Ranjan Maity](https://cit.ac.in/departments/profile/cse/dr-ranjan-maity). Computer Networks attracted my interest, as did Computing Systems and Human-Computer Interaction in general. 
+I am a fist-year Ph.D. Scholar in Computer Science and Engineering Department at the [**Indian Institute of Technology Bombay**](https://cse.iitb.ac.in/). I have done my B.Tech student in Computer Science and Engineering at the [**Central Institute of Technology**](https://cit.ac.in/) in Kokrajhar, where I have the honour of being advised by Assistant Proffessor [Dr. Ranjan Maity](https://cit.ac.in/departments/profile/cse/dr-ranjan-maity). Computer Networks attracted my interest, as did Computing Systems and Human-Computer Interaction in general. 
 
-My former college was [Cotton College](https://cottonuniversity.ac.in/) in Guwahati. It was here that I completed my HSLC (12th) in Science.
+My former college was [Cotton College](https://cottonuniversity.ac.in/) in Guwahati. It was here that I completed my HS (12th) in Science.
 
 For my bachelor's thesis, I worked on Augmented Reality, which has the potential to revolutionise education. I also interned at ALTTC in Ghaziabad in the summer of 2021.
 
@@ -19,12 +19,14 @@ For my bachelor's thesis, I worked on Augmented Reality, which has the potential
 
 ### Education
 
-- **B.Tech in Computer Science and Engineering, 2022**<br>Central Institute of Technology Kokrajhar<br>CGPA: 9.46 / 10
+- **Ph.D. in Computer Science and Engineering, 2022 - Present**<br>Indian Institute of Technology Bombay (IIT Bombay)
+- **B.Tech in Computer Science and Engineering, 2022**<br>Central Institute of Technology Kokrajhar (CIT Kokrajhar)<br>CGPA: 9.46 / 10
 - **HS in Science, 2017**<br>Cotton College, Guwahati<br>Percentage: 75.20 %
 - **HSLC, 2015**<br>Arunodoi Academy, Tangla<br>Percentage: 87.83 %
 
 ## Updates
 
+- **July 2022:** Joined IIT Bombay to pursue Ph.D in CSE
 - **May 2022:** Selected for PhD Programme in CSE Department, IIT Bombay
 - **March 2022:** Qualified GATE 2022 and ranked in top 7.19%
 - **March 2021:** Qualified GATE 2021 and ranked in top 10.25%
@@ -38,9 +40,7 @@ For my bachelor's thesis, I worked on Augmented Reality, which has the potential
 
 ### Student Activities
 
-I am a member of CIT Kokrajhar's Human-Computer Interaction Group, where I aided my senior Dhanjit Sarma with a website usability assessment. Currently, I'm working with Dipali Basumatary, a PhD scholar, to create an augmented reality software that students may use to study the Bodo language.
-
-I am one of the coordinator of CIT Kokrajhar's AI Club.
+I was a member of CIT Kokrajhar's Human-Computer Interaction Group, where I aided my senior Dhanjit Sarma with a website usability assessment. I worked with Dipali Basumatary, a PhD scholar, to create an augmented reality software that students may use to study the Bodo language.
 
 ### Fun Activities
 
