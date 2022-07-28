@@ -132,18 +132,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/thedebojeetdas"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/debojeetdas.official"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rickydebojeet"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/itsdebojeet"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/debojeet-das/"
 
 # Reading Files
 include:
