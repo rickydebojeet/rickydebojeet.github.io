@@ -3,54 +3,46 @@ main:
     url: /projects/
   - title: "Research"
     url: /research/
-  - title: "Misc"
-    url: /misc/
+  - title: "Extras"
+    url: /extras/home/
   # - title: "Blog"
   #   url: /blog/
-  - title: "Resume"
-    url: /Debojeet_s_Resume.pdf
+  # - title: "Resume"
+  #   url: /Debojeet_s_Resume.pdf
 
-docs:
-  - title: My Stuff
+extras:
+  - title: My Extras
     children:
-      - title: "Updates"
-        url: /updates/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "Extras Home"
+        url: /extras/home/
+      - title: "My Timetable"
+        url: /extras/timetable/
+      - title: "My Updates"
+        url: /extras/updates/
+      - title: "My Resume"
+        url: /extras/resume/
+      # - title: "Upgrading"
+      #   url: /docs/upgrading/
 
-  - title: Customization
+  - title: My Blog
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "View Blog"
+        url: /blog/
+      - title: "Category View"
+        url: /categories/
+      - title: "Tag View"
+        url: /tags/
+      - title: "Year View"
+        url: /posts/
 
-  - title: Content
+blogs:
+  - title: My Blog
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "View Blog"
+        url: /blog/
+      - title: "Category View"
+        url: /categories/
+      - title: "Tag View"
+        url: /tags/
+      - title: "Year View"
+        url: /posts/
