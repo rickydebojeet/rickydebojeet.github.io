@@ -46,8 +46,8 @@ I was a member of CIT Kokrajhar's Human-Computer Interaction Group, where I aide
 
 ### Fun Activities
 
-I enjoy watching movies and anime in my spare time. I'm interested in the prospect of learning a new language, and I've recently started using Duolingo to learn Japanese. I want to learn to play the drums, and volleyball, and travel around India. <br>**কিন্তু কখনো সময় পাই না কখনো উপায় পাই না** (Copied 🤓)
+I'm enthusiastic about learning different languages and knowing different cultures. Recently I have been trying to pick up Japanese in my free time. I would love to explore different parts of India. I am also trying to develop new hobbies like playing an instrument and swimming.
 
-You can check my blog for the stuffs that I do just for fun.
+You can check my blog for the stuffs that I do just for fun. (Not updated for a long time)
 
 > **One who doesn't throw the dice can never expect to score a six.** <br>- Navjot Singh Sidhu
