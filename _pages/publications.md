@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: Publications
-permalink: /publications/
+title: Research
+permalink: /research/
 header:
   overlay_color: "#333"
   actions:
