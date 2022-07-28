@@ -20,9 +20,9 @@ For my bachelor's thesis, I worked on Augmented Reality, which has the potential
 ### Education
 
 - **Ph.D. in Computer Science and Engineering, 2022 - Present**<br>Indian Institute of Technology Bombay (IIT Bombay)
-- **B.Tech in Computer Science and Engineering, 2022**<br>Central Institute of Technology Kokrajhar (CIT Kokrajhar)<br>CGPA: 9.46 / 10
-- **HS in Science, 2017**<br>Cotton College, Guwahati<br>Percentage: 75.20 %
-- **HSLC, 2015**<br>Arunodoi Academy, Tangla<br>Percentage: 87.83 %
+- **B.Tech in Computer Science and Engineering, 2022**<br>Central Institute of Technology Kokrajhar (CIT Kokrajhar)
+- **HS in Science, 2017**<br>Cotton College, Guwahati
+- **HSLC, 2015**<br>Arunodoi Academy, Tangla
 
 ## Updates
 
@@ -35,6 +35,8 @@ For my bachelor's thesis, I worked on Augmented Reality, which has the potential
 - **January 2016:** Anundoram Borooah Awardee for excellent academic perfomamce in HSLC
 - **August 2015:** Joined Cotton College, Guwahati
 - **June 2015:** Cleared HSLC Examination, 2015 with Distinction
+
+**[All Updates (Archive)](/updates/)**
 
 ---
 
