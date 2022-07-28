@@ -64,7 +64,8 @@ search: true
 search_full_content: true
 search_provider: # lunr (default), algolia, google
 lunr:
-  search_within_pages: # true, false (default)
+  search_within_pages: true #false (default)
+  search_full_content: true
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME
@@ -258,6 +259,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+collections:
+  extras:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
