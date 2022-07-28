@@ -3,9 +3,7 @@ layout: splash
 title: Projects
 permalink: /projects/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/projects-header.jpeg
+  overlay_color: "#333"
   actions:
     - label: " GitHub"
       url: "https://github.com/rickydebojeet"
@@ -14,7 +12,7 @@ feature_row:
   - image_path: /assets/images/encryptor.png
     alt: "Personal Project"
     title: "Encyptor"
-    excerpt: "In this project we are developing all the algorithms present in Information security using HTML, CSS, and JavaScript."
+    excerpt: "In this project we implemented all the algorithms present in Information security using HTML, CSS, and JavaScript."
     url: "https://github.com/swaubhik/information-security"
     btn_label: "GitHub"
     btn_class: "btn--primary"
