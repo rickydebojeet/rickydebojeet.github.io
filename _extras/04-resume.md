@@ -7,4 +7,5 @@ sidebar:
   nav: "extras"
 ---
 
-[Click here to download my resume](/Debojeet_s_Resume.pdf)
+To download my resume click [here.](/assets/pdf/Debojeet_s_Resume.pdf)
+{: .notice--primary}
