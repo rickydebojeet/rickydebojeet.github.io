@@ -8,4 +8,5 @@ sidebar:
   nav: "extras"
 ---
 
-Will be added soon.
+**Notice:** The Timetable will be added after the course registration is over and TA duties are anounced.
+{: .notice--info}
