@@ -8,5 +8,11 @@ sidebar:
   nav: "extras"
 ---
 
-**Notice:** The Timetable will be added after the course registration is over and TA duties are anounced.
-{: .notice--info}
+![full](/assets/images/timetable.jpg)
+{: .align-center}
+
+You can download the timetable [here](/assets/pdf/my_timetable.pdf).
+{: .notice--primary}
+
+**Notice:** The Timetable will be further modified after the course registration is over and TA duties are anounced.
+{: .notice--danger}
