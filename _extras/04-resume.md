@@ -6,4 +6,5 @@ permalink: /extras/resume/
 sidebar:
   nav: "extras"
 ---
-Will be added soon.
+
+[Click here to download my resume](/Debojeet_s_Resume.pdf)
