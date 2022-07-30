@@ -15,12 +15,12 @@ extras:
     children:
       - title: "Extras Home"
         url: /extras/home/
+      - title: "My Profile"
+        url: /extras/profile/
       - title: "My Timetable"
         url: /extras/timetable/
       - title: "My Updates"
         url: /extras/updates/
-      - title: "My Resume"
-        url: /extras/resume/
       # - title: "Upgrading"
       #   url: /docs/upgrading/
 
