@@ -8,7 +8,8 @@ sidebar:
   nav: "extras"
 ---
 **<u>2022</u>**
-    
+
+- **August 2022:** Graduated from CIT Kokrajhar with a B. Tech. in Computer Science and Engineering with a CGPA of 9.57/10
 - **July 2022:** Joined IIT Bombay to pursue Ph.D. in CSE
 - **May 2022:** Selected for PhD Programme in CSE Department, IIT Bombay
 - **March 2022:** Qualified GATE 2022 and ranked in top 7.19%
