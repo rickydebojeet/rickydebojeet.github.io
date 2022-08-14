@@ -24,10 +24,10 @@ I received my B. Tech. in Computer Science and Engineering from the [**Central I
         <li><strong>March 2022:</strong> Qualified GATE 2022 and ranked in top 7.19%</li>
         <li><strong>March 2021:</strong> Qualified GATE 2021 and ranked in top 10.25%</li>
     </ul>
-    <a href="/extras/updates/">All Updates (Archive)</a>
+    <a href="./extras/updates/">All Updates (Archive)</a>
 </div>
 
-To know more about me click [here.](/extras/profile/)
+To know more about me click [here.](./extras/profile/)
 {: .notice}
 
 ### Research Updates
@@ -36,5 +36,5 @@ To know more about me click [here.](/extras/profile/)
     <ol>
         <li><strong>Development and Testing of "TeachAR" - A Platform for Teaching AR based Applications</strong><br><strong>Debojeet Das</strong>, Sourav Kumar Biswas, Swaubhik Chakraborty, Dipali Basumatary and Ranjan Maity<br>Submitted in <a href="https://www.mexihc.org/2022/" target=blank>MexIHC 2022</a></li>
     </ol>
-    <a href="/research/">All Research (Archive)</a>
+    <a href="./research/">All Research (Archive)</a>
 </div>
