@@ -8,10 +8,10 @@ sidebar:
   nav: "extras"
 ---
 
-![full](/assets/images/timetable.jpg)
+![full](../../assets/images/timetable.jpg)
 {: .align-center}
 
-You can download the timetable [here](/assets/pdf/my_timetable.pdf).
+You can download the timetable [here](../../assets/pdf/my_timetable.pdf).
 {: .notice--primary}
 
 **Notice:** The Timetable will be further modified after the course registration is over and TA duties are anounced.
