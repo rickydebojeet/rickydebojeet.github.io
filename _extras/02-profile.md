@@ -2,6 +2,7 @@
 title: "My Profile"
 layout: single
 author_profile: false
+classes: wide
 permalink: /extras/profile/
 sidebar:
   nav: "extras"
