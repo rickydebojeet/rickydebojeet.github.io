@@ -19,10 +19,9 @@ I received my B. Tech. in Computer Science and Engineering from the [**Central I
 <div  class="notice notice--success">
     <strong>Recent Updates</strong>
     <ul>
+        <li><strong>August 2022:</strong> Graduated from CIT Kokrajhar with a B. Tech. in Computer Science and Engineering with a CGPA of 9.57/10</li>
         <li><strong>July 2022:</strong> Joined IIT Bombay to pursue Ph.D. in CSE</li>
         <li><strong>May 2022:</strong> Selected for PhD Programme in CSE Department, IIT Bombay</li>
-        <li><strong>March 2022:</strong> Qualified GATE 2022 and ranked in top 7.19%</li>
-        <li><strong>March 2021:</strong> Qualified GATE 2021 and ranked in top 10.25%</li>
     </ul>
     <a href="./extras/updates/">All Updates (Archive)</a>
 </div>
