@@ -22,9 +22,9 @@ title_separator: "-"
 subtitle: #"Ph.D. Scholar"
 name: "Debojeet Das"
 description: "Portfolio of Debojeet Das a Ph.D. Scholar"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: # the subpath of your site, e.g. "/blog"
-repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url: "https://www.cse.iitb.ac.in" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/~debojeetdas" # the subpath of your site, e.g. "/blog"
+repository: "rickdebojeet/rickydebojeet.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -75,7 +75,7 @@ google:
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
   instant_search: # false (default), true
 # SEO Related
-google_site_verification: "zuvMS_Rs9IZ1ayXpUS0b8NOwhE__S5jzS71nPBVJTyM"
+google_site_verification: "zJpOEPbdhQ45sjqyyvi3_VeG2h6CPcLDRez3bgxNp-Y"
 bing_site_verification:
 naver_site_verification:
 yandex_site_verification:
@@ -100,7 +100,7 @@ social:
 analytics:
   provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id: "G-JMCC5QEW87"
+    tracking_id: "G-GKN18TMSWY"
     anonymize_ip: false # true, false (default)
 
 # Site Author
@@ -185,8 +185,8 @@ excerpt_separator: "\n\n"
 incremental: false
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-# theme: minimal-mistakes-jekyll
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Markdown Processing
