@@ -4,10 +4,6 @@ title: Projects
 permalink: /projects/
 header:
   overlay_color: "#333"
-  actions:
-    - label: " GitHub"
-      url: "https://github.com/rickydebojeet"
-excerpt: "Projects that I have worked on. Follow my GitHub for the codes of my projects. (Some of them might be private)"
 feature_row:
   - image_path: /assets/images/encryptor.png
     alt: "Personal Project"
