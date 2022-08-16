@@ -1,5 +1,5 @@
 ---
-title: "My Profile"
+title: "About Me"
 layout: single
 author_profile: false
 classes: wide
@@ -14,7 +14,7 @@ My former college was [Cotton College](https://cottonuniversity.ac.in/) in Guwah
 
 For my bachelor's thesis, I worked on Augmented Reality, which has the potential to revolutionise education. I also interned at ALTTC in Ghaziabad in the summer of 2021.
 
-To download my resume click [here.](../../assets/pdf/Debojeet_s_Resume.pdf)
+To download my resume click [here.](../downloads/)
 {: .notice--primary}
 
 ### Interests

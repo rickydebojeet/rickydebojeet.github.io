@@ -1,10 +1,10 @@
 ---
-title: "My Extras"
+title: ""
 layout: single
 author_profile: false
 toc: true
 toc_sticky: true
-permalink: /extras/home/
+permalink: /extras/links/
 sidebar:
   nav: "extras"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "My Updates"
+title: "Updates Archive"
 layout: single
 author_profile: false
 classes: wide
