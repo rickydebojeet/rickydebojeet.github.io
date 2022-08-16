@@ -4,25 +4,25 @@ main:
   - title: "Research"
     url: /research/
   - title: "Extras"
-    url: /extras/home/
-  # - title: "Blog"
-  #   url: /blog/
-  # - title: "Resume"
-  #   url: /Debojeet_s_Resume.pdf
+    url: /extras/
 
 extras:
-  - title: My Extras
+  - title: "My Academia"
     children:
-      - title: "Extras Home"
-        url: /extras/home/
-      - title: "My Profile"
+      - title: "Courses"
+        url: /extras/courses/
+      - title: "TAs"
+        url: /extras/teachingassistantship/
+  - title: My Archive
+    children:
+      - title: "About Me"
         url: /extras/profile/
-      - title: "My Timetable"
-        url: /extras/timetable/
-      - title: "My Updates"
+      - title: "Updates Archive"
         url: /extras/updates/
-      # - title: "Upgrading"
-      #   url: /docs/upgrading/
+      - title: "Important Links"
+        url: /extras/links/
+      - title: "Downloads"
+        url: /extras/downloads/
 
   - title: My Blog
     children:
