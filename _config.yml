@@ -264,6 +264,12 @@ collections:
   extras:
     output: true
     permalink: /:collection/:path/
+  courses:
+    output: true
+    permalink: /extras/:collection/:path/
+  teachingassistantship:
+    output: true
+    permalink: /extras/:collection/:path/
 
 defaults:
   # _posts
