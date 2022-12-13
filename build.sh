@@ -1,7 +1,7 @@
 #!/bin/bash
 DIR="~/Desktop/rickydebojeet.github.io/"
-USER="debojeetdas"
-HOST="mars.cse.iitb.ac.in"
+USER=$1
+HOST=$2
 DEST="~/public_html/"
 
 cd $DIR
