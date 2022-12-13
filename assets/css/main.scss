@@ -4,6 +4,26 @@
 
 @charset "utf-8";
 
+/* Colors */
+$text-color: #000 !default;
+$muted-text-color: $text-color !default;
+$primary-color: rgb(20, 124, 229) !default;
+$border-color: mix(#fff, $text-color, 75%) !default;
+$footer-background-color: rgba(0, 0, 0, 0.8) !default;
+$link-color: rgb(0, 102, 204) !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+$border-radius: 5px !default;
+$box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125) !default;
+$nav-height: 2em !default;
+$nav-toggle-height: 2rem !default;
+$navicon-width: 1.5rem !default;
+$navicon-height: 0.25rem !default;
+$global-transition: all 0.3s ease-in-out !default;
+$intro-transition: intro 0.5s both !default;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -30,4 +50,8 @@ html {
 
 a {
   text-decoration: none;
+}
+
+.sidebar {
+  opacity: 1;
 }
