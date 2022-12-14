@@ -55,3 +55,39 @@ a {
 .sidebar {
   opacity: 1;
 }
+
+.author__avatar {
+  width: 55px;
+  height: 55px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    @include breakpoint($large) {
+      padding: 0px;
+      border: 0.5px solid $border-color;
+      max-width: 200px;
+      border-radius: 0%;
+    }
+  }
+}
+
+.masthead {
+  border-bottom: 0.5px solid $border-color;
+  border-top: 5px solid $border-color;
+
+
+  &__inner-wrap {
+    @include clearfix;
+    padding: 0.5em;
+  }
+}
+
+.site-title {
+  font-weight: 400;
+  font-family: monospace;
+}
