@@ -19,15 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 title: "Debojeet Das"
 title_separator: "-"
-subtitle: #"Ph.D. Scholar"
+subtitle: # subtitle of the website
 name: "Debojeet Das"
-description: "Portfolio of Debojeet Das a Ph.D. Scholar"
+description: "Portfolio/Blog of Debojeet Das"
 url: "https://www.cse.iitb.ac.in" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/~debojeetdas" # the subpath of your site, e.g. "/blog"
 repository: "rickdebojeet/rickydebojeet.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: # overrides the website title displayed in the masthead, use " " for no title
+masthead_title: /~debojeetdas/ # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
@@ -107,16 +107,13 @@ analytics:
 author:
   name: "Debojeet Das"
   avatar: "/assets/images/bio-photo.jpeg"
-  bio: "**CSE Ph.D. Scholar** offering strong foundation in Computer Networks and interest in Technology"
-  location: "SIB401, KR Bldg., IIT Bombay"
+  bio: "**CSE Ph.D. Scholar** working on **Systems** and **Networks** at IIT Bombay."
+  location: "SynerG Lab, IIT Bombay"
   email: "debojeetdas@cse.iitb.ac.in"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://rickydebojeet.github.io"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/thedebojeetdas"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   url: "https://facebook.com/debojeetdas.official"
@@ -129,6 +126,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/debojeet-das/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/thedebojeetdas"
 
 # Site Footer
 footer:
@@ -139,6 +139,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/debojeet-das/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/thedebojeetdas"
 
 # Reading Files
 include:
@@ -187,7 +190,7 @@ incremental: false
 # Build settings
 # remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "contrast" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Markdown Processing
 kramdown:
