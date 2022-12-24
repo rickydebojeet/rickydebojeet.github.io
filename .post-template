@@ -2,9 +2,12 @@
 layout: post
 title: This is a new article
 author: User
-summary: Summary of the article
+excerpt: This is the excerpt
 categories:
   - This is a category
 tags:
   - This is a tag
+toc: true
+toc_sticky: true
 ---
+
