@@ -1,0 +1,10 @@
+---
+layout: post
+title: This is a new article
+author: User
+summary: Summary of the article
+categories:
+  - This is a category
+tags:
+  - This is a tag
+---
