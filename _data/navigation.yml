@@ -1,6 +1,4 @@
 main:
-  # - title: "Research"
-  #   url: /research/
   - title: "Blog"
     url: /blog/
   - title: "Projects"
@@ -9,40 +7,20 @@ main:
 extras:
   - title: "My Academia"
     children:
+      - title: "Calendar"
+        url: /extras/calendar/
       - title: "Courses"
         url: /extras/courses/
       - title: "TAs"
-        url: /extras/teachingassistantship/
-  - title: My Archive
-    children:
-      - title: "About Me"
-        url: /extras/profile/
-      - title: "Updates Archive"
-        url: /extras/updates/
-      - title: "Important Links"
-        url: /extras/links/
-      - title: "Downloads"
-        url: /extras/downloads/
+        url: /extras/teaching/
+      # - title: "Project Reports"
+      #   url: /extras/projectreports/
 
-  - title: My Blog
+  - title: Blog Archives
     children:
-      - title: "View Blog"
-        url: /blog/
-      - title: "Category View"
+      - title: "Category"
         url: /categories/
-      - title: "Tag View"
+      - title: "Tag"
         url: /tags/
-      - title: "Year View"
-        url: /posts/
-
-blogs:
-  - title: My Blog
-    children:
-      - title: "View Blog"
-        url: /blog/
-      - title: "Category View"
-        url: /categories/
-      - title: "Tag View"
-        url: /tags/
-      - title: "Year View"
+      - title: "Year"
         url: /posts/

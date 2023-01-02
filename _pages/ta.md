@@ -1,8 +1,8 @@
 ---
 title: TA Duties
 layout: collection
-permalink: /extras/teachingassistantship/
-collection: teachingassistantship
+permalink: /extras/teaching/
+collection: teaching
 entries_layout: grid
 classes: wide
 author_profile: false

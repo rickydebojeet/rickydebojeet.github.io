@@ -270,7 +270,7 @@ collections:
   courses:
     output: true
     permalink: /extras/:collection/:path/
-  teachingassistantship:
+  teaching:
     output: true
     permalink: /extras/:collection/:path/
 

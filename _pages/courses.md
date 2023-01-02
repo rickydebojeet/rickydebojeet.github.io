@@ -10,4 +10,4 @@ sidebar:
   nav: "extras"
 ---
 
-This page contains all the courses that I have taken in IIT Bombay so far.
+This page contains all the courses that I have completed in IIT Bombay so far.

@@ -58,7 +58,7 @@ feature_row3:
 {% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="left" %}
 
-To read my reports of the projects and know more about them click [here.](../extras/courses/)
-{: .notice}
+<!-- To read my reports of the projects and know more about them click [here.](../extras/projectreports/)
+{: .notice} -->
 
 <!-- {% include feature_row %} -->
